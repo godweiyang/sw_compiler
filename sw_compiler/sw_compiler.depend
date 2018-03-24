@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1509585454 source:c:\users\weiyang\desktop\编译原理实践\sw_compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1511078865 source:c:\users\weiyang\desktop\编译原理实践\sw_compiler\compile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1511078928 c:\users\weiyang\desktop\编译原理实践\sw_compiler\compile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1508987582 source:c:\users\10142130214\desktop\编译原理实践\sw_compiler\compile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1508987428 c:\users\10142130214\desktop\编译原理实践\sw_compiler\compile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1508745110 source:c:\users\10142130214\desktop\编译原理实践\sw_compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1509585454 source:c:\users\weiya\desktop\编译原理实践\sw_compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1508987428 c:\users\weiya\desktop\编译原理实践\sw_compiler\compile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1509585454 source:c:\users\10142130214\desktop\sw_compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1509592340 c:\users\10142130214\desktop\sw_compiler\compile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1509585454 source:c:\users\10142130214\desktop\编译原理\sw_compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1511078928 c:\users\10142130214\desktop\编译原理\sw_compiler\compile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1509585454 source:c:\users\weiyang\desktop\编译原理实践\10142130214\程序\sw_compiler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+
+1511078928 c:\users\weiyang\desktop\编译原理实践\10142130214\程序\sw_compiler\compile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1511779905 source:c:\users\weiyang\desktop\编译原理实践\10142130214\程序\sw_compiler\compile.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compile.h"
+

@@ -1,0 +1,7 @@
+var i;
+var sum;
+sum = 0;
+for i in 1...10 {
+    sum = sum + 1;
+};
+print(sum);

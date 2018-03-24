@@ -1,0 +1,13 @@
+var x;
+var y;
+var z;
+func gcd() {
+	z = x % (y + 1); //x mod (y+1)
+}/*
+this is block comment.
+this is block comment.
+*/
+x = 84
+y = 36;
+call gcd();
+print(z);

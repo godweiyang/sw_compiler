@@ -1,0 +1,7 @@
+const m = 1;
+var i;
+var j;
+j = 5;
+for i in 1...j+m {
+    print(i);
+};

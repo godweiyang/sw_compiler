@@ -1,0 +1,22 @@
+var x;
+var y;
+var z;
+func gcd() {
+	var f;
+	var g;
+	f = x;
+	g = y;
+	while f != g {
+		if f < g {
+			g = g - f;
+		};
+		if g < f {
+			f = f - g;
+		};
+	};
+	z = f;
+}
+x = 84;
+y = 36;
+call gcd();
+print(z);

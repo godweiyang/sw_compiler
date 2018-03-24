@@ -1,0 +1,7 @@
+var i;
+const m = 3;
+for i in 1...m * 2 {
+    if odd i {
+    	print(i);
+    };
+};

@@ -1,0 +1,13 @@
+0 var x;
+1 var y;
+1 var z;
+1 func gcd() {
+1 	z = x % (y + 1); //x mod (y+1)
+9 }/*
+10 this is block comment.
+10 this is block comment.
+10 */
+10 x = 84
+12 y = 36;
+14 call gcd();
+15 print(z);

@@ -1,0 +1,8 @@
+0 const m = 1;
+1 var i;
+1 var j;
+1 j = 5;
+4 for i in 1...j+m {
+12     print(i);
+15 };
+===±‡“Î≥…π¶!===

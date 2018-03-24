@@ -1,0 +1,8 @@
+var i;
+var n;
+i = 1;
+n = 3;
+i++;
+print(i);
+n--;
+print(n);

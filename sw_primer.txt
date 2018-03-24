@@ -1,0 +1,14 @@
+var i;
+var j;
+var flag;
+for i in 2...100 {
+    flag = 1;
+    for j in 2...i - 1 {
+        if i % j == 0 {
+            flag = 0;
+        };
+    };
+    if flag == 1 {
+	print(i);
+    };
+};

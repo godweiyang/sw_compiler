@@ -1,0 +1,10 @@
+    1 var   x lev=0 addr=3
+    2 var   y lev=0 addr=4
+    3 var   z lev=0 addr=5
+    4 func  gcd lev=0 addr=2 size=3
+
+    1 var   x lev=0 addr=3
+    2 var   y lev=0 addr=4
+    3 var   z lev=0 addr=5
+    4 func  gcd lev=0 addr=2 size=3
+

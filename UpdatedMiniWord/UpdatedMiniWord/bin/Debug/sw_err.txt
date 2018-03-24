@@ -1,0 +1,26 @@
+const m = 6;
+const n = 4;
+var x;
+var y;
+var z;
+var t;
+func gcd() {
+	var f;
+	var g;
+	f = x;
+	g = y;
+	while f != g {
+		if f < g {
+			g := g - f;
+		};
+		if g < f {
+			f = f - g;
+		};
+	};
+	z = f;
+}
+x = m
+y = n;
+call gcd();
+t = x * y / z;
+print(t);
